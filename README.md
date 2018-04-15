@@ -7,4 +7,4 @@
 3. 포커스 true일때 상대 유닛 우클릭 시 공격
 4. 공격 시 각 유닛의 사거리까지 최단 이동 후 공격 
 
-<img src = './img/main.JPG' width = '300' height = '450' />
+<img src = './img/main.JPG' width = '600' height = '450' />
